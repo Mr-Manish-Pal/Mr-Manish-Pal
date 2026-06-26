@@ -56,7 +56,7 @@ With practical experience across multiple microcontrollers and a deep understand
 ## 🏆 Featured Projects
 
 ### 📟 [IoT-Based Smart Energy Meter](https://github.com/Mr-Manish-Pal/IoT-Smart-Energy-Meter)
-* **Tech Stack:** ESP32, ZMPT101B, PlatformIO, Blynk IoT Cloud.
+* **Tech Stack:** ESP32, ZMPT101B, PlatformIO, Blynk IoT Cloud , stm 32, respberry pi pico.
 * **Description:** A smart system designed to measure AC voltage, current, and real-time power consumption, transmitting data securely to a cloud dashboard for remote billing analytics.
 
 ### 🆔 [Automated Attendance System](https://github.com/Mr-Manish-Pal/Automated-Attendance-System)
