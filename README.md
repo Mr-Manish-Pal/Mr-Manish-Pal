@@ -10,8 +10,6 @@
   <a href="https://instagram.com/eng_manish"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
----
-
 ## ⚡ About Me
 
 I am an **Embedded Systems & IoT Engineer** currently pursuing my **B.Tech in Electronics and Communication Engineering**. I bridge the gap between complex hardware architectures and efficient software code. 
