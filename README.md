@@ -82,8 +82,8 @@ With practical experience across multiple microcontrollers and a deep understand
 
 I am always open to discussing **Embedded Engineering roles, IoT consultation, or innovative hardware collaborations**.
 
-* 📧 **Email:** [your.email@example.com](mailto:your.email@example.com) *(Change this to your actual email)*
-* 💼 **LinkedIn:** [Manish Pal](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME_HERE) *(Change this to your LinkedIn link)*
+* 📧 **Email:** [your.email@example.com](palmanish1463@gmail.com)
+* 💼 **LinkedIn:** [Manish Pal](www.linkedin.com/in/manish-pal-b34928438)
 * 🎬 **YouTube:** [Code Mode On](https://www.youtube.com/@CodeModeOn)
 * 📸 **Instagram:** [@eng_manish](https://instagram.com/eng_manish)
 
